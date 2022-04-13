@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img src="https://github.githubassets.com/images/mona-loading-default.gif" width="64" height="64" /></p>
 
 <!--
 **romanphilipskikh/romanphilipskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
